@@ -1,0 +1,55 @@
+[33mcommit 3aae45f86af1d8b1a99f17cd498e891172c2aba4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 18:11:52 2019 -0500
+
+    commit al master
+
+ blogspot.html   | 2 [32m+[m[31m-[m
+ css/estilos.css | 2 [32m+[m[31m-[m
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit ae6c3c75fb110611a9909d664ace195bf599e840[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 17:41:42 2019 -0500
+
+    reemplazo de una version por otra
+
+ index.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit e818af55b427fa57a75efbfc6105c30dec849f7b[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 17:37:35 2019 -0500
+
+    Cambio de maestria
+
+ index.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit b4533ac81bf0b2a536c4a19501ae0c163bd25854[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 17:36:51 2019 -0500
+
+    Cambio de vida
+
+ index.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit ce9b3016989f157d32d2966637388bdcd0ae2dce[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 17:35:48 2019 -0500
+
+    arranco mi proyecto real con html y css
+
+ blogspot.html   | 14 [32m++++++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ 2 files changed, 19 insertions(+)
+
+[33mcommit b984a54b00305726a6e8b5b559b8f4b59537a61b[m
+Author: Andres Gallardo <agallardoysla@gmail.com>
+Date:   Fri Aug 23 17:04:39 2019 -0500
+
+    Este es el primer commit de este archivo
+
+ index.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
